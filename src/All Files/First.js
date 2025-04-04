@@ -98,7 +98,7 @@ function First() {
           <div className="col-sm-12 col-md-6 col-lg-4">
             <div>
               <div className="card" style={{ "width": "18rem" }}>
-                <img src="..." className="card-img-top" alt="..." />
+                <img style={{width:"100%",height:"100vh"}} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgGxk2nNF9o2kncarIsz4CV2AqbeMngycdw&s" className="card-img-top" alt="..." />
                 <div className="card-body">
                   <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
@@ -108,14 +108,23 @@ function First() {
           <div className="col-sm-12 col-md-6 col-lg-4">
             <div>
               <div className="card" style={{ "width": "18rem" }}>
-                <img src="..." className="card-img-top" alt="..." />
+                <img style={{width:"100%",height:"100vh"}} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgGxk2nNF9o2kncarIsz4CV2AqbeMngycdw&s" className="card-img-top" alt="..." />
                 <div className="card-body">
                   <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
               </div>
             </div>
           </div>
-          <div className="col-sm-12 col-md-6 col-lg-4"></div>
+          <div className="col-sm-12 col-md-6 col-lg-4">
+            <div>
+              <div className="card" style={{ "width": "18rem" }}>
+                <img style={{width:"100%",height:"100vh"}} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgGxk2nNF9o2kncarIsz4CV2AqbeMngycdw&s" className="card-img-top" alt="..." />
+                <div className="card-body">
+                  <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 
