@@ -94,33 +94,42 @@ function First() {
 
 
       <div className="container">
-        <div className="row">
+        <div className="row mt-5">
           <div className="col-sm-12 col-md-6 col-lg-4">
             <div>
-              <div className="card" style={{ "width": "18rem" }}>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgGxk2nNF9o2kncarIsz4CV2AqbeMngycdw&s" className="card-img-top images_name" alt="..." />
+              <div className="card" style={{ "width": "25rem" }}>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbbd_FTBnVk6AMLM0zj6vmNiKqyeKv58vleA&s" className="card-img-top images_name" alt="..." />
                 <div className="card-body">
                   <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  <a href="https://tipsg.in/"><div className='text-center'>
+                    <button className="btn btn-danger">Click Me</button>
+                  </div></a>
                 </div>
               </div>
             </div>
           </div>
           <div className="col-sm-12 col-md-6 col-lg-4">
             <div>
-              <div className="card" style={{ "width": "18rem" }}>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgGxk2nNF9o2kncarIsz4CV2AqbeMngycdw&s" className="card-img-top images_name" alt="..." />
+              <div className="card" style={{ "width": "25rem" }}>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk4HqcB0ZLneKgw-qDhi5xvo84dqRAmdVDGQ&s" className="card-img-top images_name" alt="..." />
                 <div className="card-body">
                   <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  <a href="https://www.instagram.com/tipsgalwar/"><div className='text-center'>
+                    <button className="btn btn-success">Sumite</button>
+                  </div></a>
                 </div>
               </div>
             </div>
           </div>
           <div className="col-sm-12 col-md-6 col-lg-4">
             <div>
-              <div className="card" style={{ "width": "18rem" }}>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgGxk2nNF9o2kncarIsz4CV2AqbeMngycdw&s" className="card-img-top images_name" alt="..." />
+              <div className="card" style={{ "width": "25rem" }}>
+                <img src="https://tipsg.in/assets/img/about-us/v3/collage%2003.png" className="card-img-top images_name" alt="..." />
                 <div className="card-body">
                   <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  <a href="https://internshala.com/company/tipsg-alwar-1727756076/"><div className='text-center'>
+                    <button className="btn btn-primary">Save Code</button>
+                  </div></a>
                 </div>
               </div>
             </div>
