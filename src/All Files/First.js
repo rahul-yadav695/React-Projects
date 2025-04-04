@@ -3,7 +3,7 @@ import React from 'react'
 function First() {
   return (
     <>
-      <div id="carouselExampleDark" className="carousel carousel-dark slide mt-">
+      <div id="carouselExampleDark" className="carousel carousel-dark slide">
         <div className="carousel-indicators">
           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to={0} className="active" aria-current="true" aria-label="Slide 1" />
           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to={1} aria-label="Slide 2" />
