@@ -1,12 +1,12 @@
 import './App.css';
-import Raj from './All Files/Raj';
+import Nav from './All Files/Nav';
 import First from './All Files/First';
 
 function App() {
   
   return (
   <>
-    <Raj/>
+    <Nav/>
     <First/>
   </>
   
